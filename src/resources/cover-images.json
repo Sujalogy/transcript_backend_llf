@@ -1,0 +1,36 @@
+{
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1/v1742222178/pro_pbid_4391511.jpg"
+      },
+      {
+        "id": "img2",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1,c_scale,w_170/v1739403486/pro_pbid_3633032.jpg"
+      },
+      {
+        "id": "img3",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1,c_scale,w_170/v1739403421/pro_pbid_4151600.jpg"
+      },
+      {
+        "id": "img4",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1,c_scale,w_150/v1718126674/pro_pbid_4448948.jpg"
+      },
+      {
+        "id": "img5",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1,c_scale,w_150/v1737606235/pro_pbid_5703619.jpg"
+      },
+      {
+        "id": "img6",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1,c_scale,w_150/v1730130062/pro_pbid_5338192.jpg"
+      },
+      {
+        "id": "img7", 
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1/v1741621607/pro_pbid_6423325.jpg"
+      },
+      {
+        "id": "img8",
+        "url": "https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_padded,f_auto,q_auto,dpr_1,c_scale,w_150/v1730130062/pro_pbid_5338192.jpg"
+      }
+    ]
+  }
